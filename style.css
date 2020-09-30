@@ -1,0 +1,87 @@
+.profile{
+    border-radius: 50%;
+    width: 95px;
+    height: 95px;
+    padding: 5px;
+    margin: 13px  ;
+}
+.logo{
+    margin-top: 50px;
+    width: 150px;
+    height: 45px;
+}
+.continue{
+    font-family: Segoe UI Semibold;
+    font-weight: bold;
+    background-color:rgba(0,149,246,0.9);
+    border-radius: 5px;
+    border: none;
+    width: 240px;
+    height: 28px;
+    color: white;
+    cursor: pointer;
+}
+.copyright{
+    color: gray;
+    font-family: Segoe UI Semibold;
+    font-size: 12px;
+    opacity: 0.8;
+    
+}
+a{
+    text-decoration: none;
+    font-family: Segoe UI Semibold;
+    color: #00376b;
+    text-decoration-style: solid;
+    font-size: 13px;
+}
+.change_acc{
+    color: rgba(0,149,246,0.9);;
+    font-family: Segoe UI Semibold;
+    font-weight: bold;  
+}
+.teste{
+    font-family: Segoe UI Semibold;
+    font-weight: normal;
+}
+.menu_login{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: 1px lightgrey solid;
+    height: 350px;
+    width: 380px;
+    margin-top: 100px;
+    margin-right: 387px;
+
+}
+.roda_pe{
+    text-align: center;
+    align-items: center;
+    height: auto;
+    margin-top: 140px;
+}
+.container{
+    height: auto;
+    width: auto;
+}
+.ajust{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.phone{
+    width: 450px;
+    margin-right: 10px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.celular{
+    width: 300px;
+    height: 550px;
+    margin-left: 158px;
+
+}
+.srcPhone{
+    margin-top: 100px;
+}
